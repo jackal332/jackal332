@@ -1,7 +1,7 @@
 ## Hi, i am ARBUNUS MUTINDA
 
-I’m currently working on mobile app development.  
- I’m currently learning Python.  
+I’m currently working on sotware engineering.  
+ I’m currently learning spring boot.  
  I am a computer science student, a developer, and a data analyst
  
 
